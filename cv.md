@@ -16,17 +16,21 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 I would like to learn JS because it is knowledge will change my life. Now I am a manual tester for a company MapBox.
 
-### My skills:
-- GitHub
-- T
-- 
+### Education and courses:
+1. CS50 video course
+2. JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
+3. FreeCodeCamp Responsive Web Design 
+4. FreeCodeCamp JavaScript Algorithms and Data Structures 
 ### Work experience:
 _Nothing yet…_
 ### Code Example
 
-``` let sampleWord = "astronaut";
+``` javascript
+ let sampleWord = "astronaut";
 let pwRegex = /change/; 
-let result = pwRegex.test(sampleWord);```
+let result = pwRegex.test(sampleWord);
+
+```
 
 
 ### Education
