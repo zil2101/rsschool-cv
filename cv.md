@@ -2,13 +2,13 @@
 
 ### Name & Surname: 
 
-#### Illia Ivanou
+#### Illia Ivanou                            <img width="247" alt="image" src="https://user-images.githubusercontent.com/76772061/204906765-aabe1c09-3393-4ec7-9436-82b574804d5b.png">
 
 ### Contacts:
 - Location: Minsk, Belarus
 - Tel: +375296544331
 - E-mail: iliay0994@gmail.com
-- GitHub:[zil2101](https://github.com/zil2101)
+- GitHub: [zil2101](https://github.com/zil2101)
 
 ### A fiw words about my self:
 
