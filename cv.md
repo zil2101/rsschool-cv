@@ -20,11 +20,16 @@ I would like to learn JS because it is knowledge will change my life. Now I am a
 - GitHub
 - T
 - 
+### Work experience:
+_Nothing yet…_
+### Code Example
 
-
-```let sampleWord = "astronaut";
+``` let sampleWord = "astronaut";
 let pwRegex = /change/; 
 let result = pwRegex.test(sampleWord);```
+
+
+### Education
 
 
 
